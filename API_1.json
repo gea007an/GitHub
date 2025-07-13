@@ -1,0 +1,20 @@
+{
+    "OrderID" : 123456,
+    "Address" : "Malbec 332",
+    "Status" : "Ready",
+    "Articles" : [
+        {
+            "Name" : "Notebook Lenovo ThinkPad",
+            "Price" : 700000,
+            "Quantity" : 45,
+            "Dangerous" : false
+        },
+        {
+            "Name" : "Switch Cisco 8 bocas",
+            "Price" : 300000,
+            "Quantity" : 22,
+            "Dangerous" : true
+
+        }
+    ]
+}
